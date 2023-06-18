@@ -13,5 +13,8 @@
 # $ git pull
 # $ ls (L kecil)
 # $ python gas.py
-# @—> UPDATE
-# $
+# —> UPDATE
+# $ ls
+# $ cd COFFEE-LUWAK
+# $ git pull
+# $ python gas.py
