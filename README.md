@@ -14,3 +14,4 @@ $ git pull
 $ ls (L kecil)
 $ python gas.py
 @—> UPDATE
+$
