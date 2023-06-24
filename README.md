@@ -1,6 +1,6 @@
 # COFFEE-LU
-# $ pkg update -y && pkg upgrade -y
-# $ pkg install git -y
+- $ pkg update -y && pkg upgrade -y
+*$ pkg install git -y*
 # $ pkg install python -y
 # $ pip install requests
 # $ pip install mechanize
