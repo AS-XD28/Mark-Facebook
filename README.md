@@ -7,7 +7,6 @@
 - $ pip3 install beautifulsoup4
 - $ pip install futures
 - $ pip install rich
-- $ rm -rf COFFEE-LUWAK
 - $ git clone https://github.com/AS-XD28/Mark-Facebook
 - $ cd COFFEE-LUWAK
 - $ git pull
