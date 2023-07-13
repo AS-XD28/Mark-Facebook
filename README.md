@@ -8,7 +8,7 @@
 - $ pip install futures
 - $ pip install rich
 - $ git clone https://github.com/AS-XD28/Mark-Facebook
-- $ cd COFFEE-LUWAK
+- $ cd Mark-Facebook
 - $ git pull
 - $ ls
 - $ python Run.py
